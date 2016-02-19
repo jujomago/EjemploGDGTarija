@@ -1,0 +1,5 @@
+elements
+console
+sources | degugger
+Network | storages
+Resources
